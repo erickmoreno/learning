@@ -7,8 +7,8 @@ Repositório de links para cursos a se fazer nas férias/quarentena
 
 ### Artes
 
-[Desenho da Faber-castell](https://cursos.faber-castell.com.br)
-[História da arte](https://pt.khanacademy.org/humanities/art-history)
+- [Desenho da Faber-castell](https://cursos.faber-castell.com.br)
+- [História da arte](https://pt.khanacademy.org/humanities/art-history)
 
 ### Programação
 
