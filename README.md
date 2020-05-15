@@ -16,3 +16,15 @@ Repositório de links para cursos a se fazer nas férias/quarentena
 ### Programação
 
 - [Hora do Código](https://pt.khanacademy.org/hourofcode)
+
+
+## Adulto
+
+### Artes
+
+- [Photography](https://www.youtube.com/watch?v=LT8AN5Ep7iw&list=PL2M0W9hN1ZzxQiLMQeuHAm3C9itYEp3lS)
+
+### DEV
+
+- 
+
