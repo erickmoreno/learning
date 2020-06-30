@@ -26,5 +26,6 @@ Repositório de links para cursos a se fazer nas férias/quarentena
 
 ### DEV
 
-- 
+- [Cursos da IBM](https://www.ibm.com/services/learning)
+- [Amazon](https://www.aws.training/LearningLibrary)
 
