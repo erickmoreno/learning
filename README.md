@@ -29,3 +29,4 @@ Repositório de links para cursos a se fazer nas férias/quarentena
 - [Cursos da IBM](https://www.ibm.com/services/learning)
 - [Amazon](https://www.aws.training/LearningLibrary)
 - [Oracle](https://learn.oracle.com)
+- [Várias tecnologias](https://katacoda.com)
