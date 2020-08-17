@@ -30,3 +30,4 @@ Repositório de links para cursos a se fazer nas férias/quarentena
 - [Amazon](https://www.aws.training/LearningLibrary)
 - [Oracle](https://learn.oracle.com)
 - [Várias tecnologias](https://katacoda.com)
+- [Kubernetes](https://classroom.udacity.com/courses/ud615)
