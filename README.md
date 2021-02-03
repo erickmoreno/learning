@@ -20,9 +20,10 @@ Repositório de links para cursos a se fazer nas férias/quarentena
 
 ## Adulto
 
-### Artes
+### Photography
 
-- [Photography](https://www.youtube.com/watch?v=LT8AN5Ep7iw&list=PL2M0W9hN1ZzxQiLMQeuHAm3C9itYEp3lS)
+- [Basics videos](https://www.youtube.com/watch?v=LT8AN5Ep7iw&list=PL2M0W9hN1ZzxQiLMQeuHAm3C9itYEp3lS)
+- [Cambridge](https://www.cambridgeincolour.com)
 
 ### DEV
 
