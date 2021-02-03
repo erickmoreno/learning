@@ -27,11 +27,12 @@ Repositório de links para cursos a se fazer nas férias/quarentena
 
 ### DEV
 
-- [Cursos da IBM](https://www.ibm.com/services/learning)
-- [Amazon](https://www.aws.training/LearningLibrary)
+- [System Design Interview Prep](https://github.com/donnemartin/system-design-primer)
+- [IBM Learning](https://www.ibm.com/services/learning)
+- [Amazon Learning](https://www.aws.training/LearningLibrary)
 - [Oracle](https://learn.oracle.com)
-- [Várias tecnologias](https://katacoda.com)
+- [Katacoda](https://katacoda.com)
 - [Kubernetes](https://classroom.udacity.com/courses/ud615)
-- Programação reativa:
+- Reactive Architecture:
   - [Foundations](https://cognitiveclass.ai/learn/reactive-architecture-foundations)
   - [Advanced](https://cognitiveclass.ai/learn/reactive-architecture-advanced)
