@@ -33,6 +33,7 @@ Repositório de links para cursos a se fazer nas férias/quarentena
 - [Oracle](https://learn.oracle.com)
 - [Katacoda](https://katacoda.com)
 - [Kubernetes](https://classroom.udacity.com/courses/ud615)
+- [GraphQL](https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS141x+1T2021/home)
 - Reactive Architecture:
   - [Foundations](https://cognitiveclass.ai/learn/reactive-architecture-foundations)
   - [Advanced](https://cognitiveclass.ai/learn/reactive-architecture-advanced)
